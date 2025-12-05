@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+venv/
+
+# Node / Frontend
+node_modules/
+
