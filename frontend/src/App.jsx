@@ -6,7 +6,7 @@ import {
   Download, Plus, TrendingUp, AlertCircle, UserPlus, Copy 
 } from "lucide-react";
 
-const API_URL = "https://payroll-system-paystream.netlify.app/";
+const API_URL = "https://payroll-system-paystream.onrender.com";
 
 // --- UI COMPONENTS ---
 
